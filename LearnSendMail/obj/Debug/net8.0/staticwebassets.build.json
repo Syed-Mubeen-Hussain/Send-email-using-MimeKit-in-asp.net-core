@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "8hv2pE5fqjdZMO/6BmpxQnZFqQOAmMJEM1qHn+CXOFw=",
+  "Source": "LearnSendMail",
+  "BasePath": "_content/LearnSendMail",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "LearnSendMail\\wwwroot",
+      "Source": "LearnSendMail",
+      "ContentRoot": "C:\\Users\\out2sol\\Desktop\\LearnSendMail\\LearnSendMail\\LearnSendMail\\wwwroot\\",
+      "BasePath": "_content/LearnSendMail",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\out2sol\\Desktop\\LearnSendMail\\LearnSendMail\\LearnSendMail\\wwwroot\\Attachments\\API Full Course.pptx",
+      "SourceId": "LearnSendMail",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\out2sol\\Desktop\\LearnSendMail\\LearnSendMail\\LearnSendMail\\wwwroot\\",
+      "BasePath": "_content/LearnSendMail",
+      "RelativePath": "Attachments/API Full Course.pptx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Attachments\\API Full Course.pptx"
+    },
+    {
+      "Identity": "C:\\Users\\out2sol\\Desktop\\LearnSendMail\\LearnSendMail\\LearnSendMail\\wwwroot\\EmailTemplates\\Welcome.cshtml",
+      "SourceId": "LearnSendMail",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\out2sol\\Desktop\\LearnSendMail\\LearnSendMail\\LearnSendMail\\wwwroot\\",
+      "BasePath": "_content/LearnSendMail",
+      "RelativePath": "EmailTemplates/Welcome.cshtml",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "wwwroot\\EmailTemplates\\Welcome.cshtml"
+    }
+  ]
+}

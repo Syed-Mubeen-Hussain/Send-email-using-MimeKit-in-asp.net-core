@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\out2sol\\Desktop\\LearnSendMail\\LearnSendMail\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5775A807-7A7F-4B4B-972A-FC9CDE90A37B}|LearnSendMail\\LearnSendMail.csproj|c:\\users\\out2sol\\desktop\\learnsendmail\\learnsendmail\\learnsendmail\\service\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5775A807-7A7F-4B4B-972A-FC9CDE90A37B}|LearnSendMail\\LearnSendMail.csproj|solutionrelative:learnsendmail\\service\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5775A807-7A7F-4B4B-972A-FC9CDE90A37B}|LearnSendMail\\LearnSendMail.csproj|c:\\users\\out2sol\\desktop\\learnsendmail\\learnsendmail\\learnsendmail\\controllers\\emailingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5775A807-7A7F-4B4B-972A-FC9CDE90A37B}|LearnSendMail\\LearnSendMail.csproj|solutionrelative:learnsendmail\\controllers\\emailingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5775A807-7A7F-4B4B-972A-FC9CDE90A37B}|LearnSendMail\\LearnSendMail.csproj|c:\\users\\out2sol\\desktop\\learnsendmail\\learnsendmail\\learnsendmail\\wwwroot\\emailtemplates\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5775A807-7A7F-4B4B-972A-FC9CDE90A37B}|LearnSendMail\\LearnSendMail.csproj|solutionrelative:learnsendmail\\wwwroot\\emailtemplates\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5775A807-7A7F-4B4B-972A-FC9CDE90A37B}|LearnSendMail\\LearnSendMail.csproj|c:\\users\\out2sol\\desktop\\learnsendmail\\learnsendmail\\learnsendmail\\helper\\mailrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5775A807-7A7F-4B4B-972A-FC9CDE90A37B}|LearnSendMail\\LearnSendMail.csproj|solutionrelative:learnsendmail\\helper\\mailrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5775A807-7A7F-4B4B-972A-FC9CDE90A37B}|LearnSendMail\\LearnSendMail.csproj|c:\\users\\out2sol\\desktop\\learnsendmail\\learnsendmail\\learnsendmail\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5775A807-7A7F-4B4B-972A-FC9CDE90A37B}|LearnSendMail\\LearnSendMail.csproj|solutionrelative:learnsendmail\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5775A807-7A7F-4B4B-972A-FC9CDE90A37B}|LearnSendMail\\LearnSendMail.csproj|c:\\users\\out2sol\\desktop\\learnsendmail\\learnsendmail\\learnsendmail\\service\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5775A807-7A7F-4B4B-972A-FC9CDE90A37B}|LearnSendMail\\LearnSendMail.csproj|solutionrelative:learnsendmail\\service\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5775A807-7A7F-4B4B-972A-FC9CDE90A37B}|LearnSendMail\\LearnSendMail.csproj|c:\\users\\out2sol\\desktop\\learnsendmail\\learnsendmail\\learnsendmail\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5775A807-7A7F-4B4B-972A-FC9CDE90A37B}|LearnSendMail\\LearnSendMail.csproj|solutionrelative:learnsendmail\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5775A807-7A7F-4B4B-972A-FC9CDE90A37B}|LearnSendMail\\LearnSendMail.csproj|c:\\users\\out2sol\\desktop\\learnsendmail\\learnsendmail\\learnsendmail\\learnsendmail.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5775A807-7A7F-4B4B-972A-FC9CDE90A37B}|LearnSendMail\\LearnSendMail.csproj|solutionrelative:learnsendmail\\learnsendmail.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5775A807-7A7F-4B4B-972A-FC9CDE90A37B}|LearnSendMail\\LearnSendMail.csproj|c:\\users\\out2sol\\desktop\\learnsendmail\\learnsendmail\\learnsendmail\\helper\\mailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5775A807-7A7F-4B4B-972A-FC9CDE90A37B}|LearnSendMail\\LearnSendMail.csproj|solutionrelative:learnsendmail\\helper\\mailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Welcome.cshtml",
+              "DocumentMoniker": "C:\\Users\\out2sol\\Desktop\\LearnSendMail\\LearnSendMail\\LearnSendMail\\wwwroot\\EmailTemplates\\Welcome.cshtml",
+              "RelativeDocumentMoniker": "LearnSendMail\\wwwroot\\EmailTemplates\\Welcome.cshtml",
+              "ToolTip": "C:\\Users\\out2sol\\Desktop\\LearnSendMail\\LearnSendMail\\LearnSendMail\\wwwroot\\EmailTemplates\\Welcome.cshtml",
+              "RelativeToolTip": "LearnSendMail\\wwwroot\\EmailTemplates\\Welcome.cshtml",
+              "ViewState": "AQIAAGABAAAAAAAAAAAiwGcBAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T06:25:42.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmailingController.cs",
+              "DocumentMoniker": "C:\\Users\\out2sol\\Desktop\\LearnSendMail\\LearnSendMail\\LearnSendMail\\Controllers\\EmailingController.cs",
+              "RelativeDocumentMoniker": "LearnSendMail\\Controllers\\EmailingController.cs",
+              "ToolTip": "C:\\Users\\out2sol\\Desktop\\LearnSendMail\\LearnSendMail\\LearnSendMail\\Controllers\\EmailingController.cs",
+              "RelativeToolTip": "LearnSendMail\\Controllers\\EmailingController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA7wB0AAABxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T18:16:03.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\out2sol\\Desktop\\LearnSendMail\\LearnSendMail\\LearnSendMail\\Service\\EmailService.cs",
+              "RelativeDocumentMoniker": "LearnSendMail\\Service\\EmailService.cs",
+              "ToolTip": "C:\\Users\\out2sol\\Desktop\\LearnSendMail\\LearnSendMail\\LearnSendMail\\Service\\EmailService.cs",
+              "RelativeToolTip": "LearnSendMail\\Service\\EmailService.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAowBYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T18:06:25.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\out2sol\\Desktop\\LearnSendMail\\LearnSendMail\\LearnSendMail\\Service\\IEmailService.cs",
+              "RelativeDocumentMoniker": "LearnSendMail\\Service\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\out2sol\\Desktop\\LearnSendMail\\LearnSendMail\\LearnSendMail\\Service\\IEmailService.cs",
+              "RelativeToolTip": "LearnSendMail\\Service\\IEmailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T18:06:14.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\out2sol\\Desktop\\LearnSendMail\\LearnSendMail\\LearnSendMail\\Program.cs",
+              "RelativeDocumentMoniker": "LearnSendMail\\Program.cs",
+              "ToolTip": "C:\\Users\\out2sol\\Desktop\\LearnSendMail\\LearnSendMail\\LearnSendMail\\Program.cs",
+              "RelativeToolTip": "LearnSendMail\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T17:58:43.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\out2sol\\Desktop\\LearnSendMail\\LearnSendMail\\LearnSendMail\\appsettings.json",
+              "RelativeDocumentMoniker": "LearnSendMail\\appsettings.json",
+              "ToolTip": "C:\\Users\\out2sol\\Desktop\\LearnSendMail\\LearnSendMail\\LearnSendMail\\appsettings.json",
+              "RelativeToolTip": "LearnSendMail\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-20T17:52:54.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MailRequest.cs",
+              "DocumentMoniker": "C:\\Users\\out2sol\\Desktop\\LearnSendMail\\LearnSendMail\\LearnSendMail\\Helper\\MailRequest.cs",
+              "RelativeDocumentMoniker": "LearnSendMail\\Helper\\MailRequest.cs",
+              "ToolTip": "C:\\Users\\out2sol\\Desktop\\LearnSendMail\\LearnSendMail\\LearnSendMail\\Helper\\MailRequest.cs",
+              "RelativeToolTip": "LearnSendMail\\Helper\\MailRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T15:31:46.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LearnSendMail.csproj",
+              "DocumentMoniker": "C:\\Users\\out2sol\\Desktop\\LearnSendMail\\LearnSendMail\\LearnSendMail\\LearnSendMail.csproj",
+              "RelativeDocumentMoniker": "LearnSendMail\\LearnSendMail.csproj",
+              "ToolTip": "C:\\Users\\out2sol\\Desktop\\LearnSendMail\\LearnSendMail\\LearnSendMail\\LearnSendMail.csproj",
+              "RelativeToolTip": "LearnSendMail\\LearnSendMail.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-20T18:05:26.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MailSettings.cs",
+              "DocumentMoniker": "C:\\Users\\out2sol\\Desktop\\LearnSendMail\\LearnSendMail\\LearnSendMail\\Helper\\MailSettings.cs",
+              "RelativeDocumentMoniker": "LearnSendMail\\Helper\\MailSettings.cs",
+              "ToolTip": "C:\\Users\\out2sol\\Desktop\\LearnSendMail\\LearnSendMail\\LearnSendMail\\Helper\\MailSettings.cs",
+              "RelativeToolTip": "LearnSendMail\\Helper\\MailSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T15:33:19.037Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

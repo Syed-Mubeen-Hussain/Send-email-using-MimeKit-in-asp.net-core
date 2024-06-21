@@ -1,0 +1,6 @@
+@LearnSendMail_HostAddress = http://localhost:5199
+
+GET {{LearnSendMail_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

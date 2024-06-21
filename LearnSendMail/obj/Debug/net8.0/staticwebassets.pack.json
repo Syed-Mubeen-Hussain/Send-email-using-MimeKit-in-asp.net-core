@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\out2sol\\Desktop\\LearnSendMail\\LearnSendMail\\LearnSendMail\\wwwroot\\Attachments\\API Full Course.pptx",
+      "PackagePath": "staticwebassets\\Attachments\\API Full Course.pptx"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.LearnSendMail.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.LearnSendMail.props",
+      "PackagePath": "build\\LearnSendMail.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.LearnSendMail.props",
+      "PackagePath": "buildMultiTargeting\\LearnSendMail.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.LearnSendMail.props",
+      "PackagePath": "buildTransitive\\LearnSendMail.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
